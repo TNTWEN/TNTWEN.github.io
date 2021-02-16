@@ -3,7 +3,7 @@ description: Happy Everyday
 author: Tianwen Wu
 avatar: /logo.png
 email: tianwenwu2000@gmail.com
-
+skin: sunset
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
